@@ -1,7 +1,7 @@
 # Places
 
 ## British Columbia
-- West Vancouver - https://mapping.westvancouver.ca/OD/dbo_OPENDATA_FILES_list.php?page=list
+- District of West Vancouver - https://mapping.westvancouver.ca/OD/dbo_OPENDATA_FILES_list.php?page=list
 - North Vancouver - https://geoweb.dnv.org/data/
 - City of Vancouver - https://opendata.vancouver.ca/explore/dataset/orthophoto-imagery-2015/table/
 - City of Burnaby - https://burnaby.maps.arcgis.com/home/item.html?id=3d743d46d0fc448bae72b61846f80f5d
