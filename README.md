@@ -11,6 +11,7 @@
 - City of Chilliwack - https://www.chilliwack.com/main/page.cfm?id=2331&odAction=viewItem&odID=177
 - City of Kelowna - https://www.kelowna.ca/city-services/maps-open-data/orthophotos
 - Regional District of Central Okanagan - https://gis-rdco.hub.arcgis.com/pages/open-data
+- City of West Kelowna - https://www.westkelownacity.ca/en/building-business-and-development/open-data.aspx
 
 ## Yukon
 - City of Whitehorse - https://data.whitehorse.ca/
