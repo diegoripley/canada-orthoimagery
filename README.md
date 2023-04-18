@@ -1,6 +1,6 @@
 |Place|Province|Year|Dataset|Internet Archive|
 |:----|:----|:----|:----|:----|
-|City of Edmonton|AB|2022|https://data.edmonton.ca/Thematic-Features/Orthophoto-Repository-2022/kxm6-2bqc| |
+|City of Edmonton|AB|2022|[URL](https://data.edmonton.ca/Thematic-Features/Orthophoto-Repository-2022/kxm6-2bqc)| |
 |City of Grande Prairie|AB|2022|https://opendata-cityofgp.hub.arcgis.com/search?tags=aerial%20imagery| |
 |City of Red Deer|AB|2022|https://data.reddeer.ca/orthophotography|https://archive.org/details/city-of-red-deer-2022-orthoimagery|
 |Strathcona County|AB|2021|https://data.strathcona.ca/browse?category=Imagery&q=2021&sortBy=relevance&tags=orthophotos+-+2021| |
