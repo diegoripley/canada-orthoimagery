@@ -8,7 +8,7 @@
 |City of Chilliwack|BC|2021|[URL](https://www.chilliwack.com/main/page.cfm?id=2331&odAction=viewItem&odID=177)|[URL](https://archive.org/details/city-of-chilliwack-2021-orthoimagery) |
 |City of Kelowna|BC|2021|[URL](https://www.kelowna.ca/city-services/maps-open-data/orthophotos)|[URL](https://archive.org/details/city-of-kelowna-2021-orthoimagery)|
 |City of Nanaimo|BC|2022|[URL](https://www.nanaimo.ca/ortho)|[URL](https://archive.org/details/city-of-nanaimo-2022-orthoimagery)|
-|City of Surrey|BC|2021|[URL](https://data.surrey.ca/dataset/2021-orthophoto)|[URL](https://archive.org/details/city-of-surrey-2021-orthoimagery)|
+|City of Surrey|BC|2021|[URL](https://data.surrey.ca/dataset/2021-orthophoto)|[URL](https://archive.org/details/city-of-surrey-2021-04-orthoimagery)|
 |City of Vancouver|BC|2015|[URL](https://opendata.vancouver.ca/explore/dataset/orthophoto-imagery-2015/table/)| |
 |City of West Kelowna|BC|2021|[URL](https://www.westkelownacity.ca/en/building-business-and-development/open-data.aspx)|[URL](https://archive.org/details/city-of-west-kelowna-2021-orthoimagery)|
 |District of North Vancouver|BC|2013|[URL](https://geoweb.dnv.org/data/)|[URL](https://archive.org/details/district-of-north-vancouver-2013-orthoimagery)|
