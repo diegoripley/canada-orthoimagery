@@ -5,7 +5,7 @@
 |City of Red Deer|AB|2022|[URL](https://data.reddeer.ca/orthophotography)|[URL](https://archive.org/details/city-of-red-deer-2022-orthoimagery)|
 |Strathcona County|AB|2021|[URL](https://data.strathcona.ca/browse?category=Imagery&q=2021&sortBy=relevance&tags=orthophotos+-+2021)|[URL](https://archive.org/details/strathcona-county-2021-orthoimagery) |
 |City of Burnaby|BC|2020|[URL](https://burnaby.maps.arcgis.com/home/item.html?id=3d743d46d0fc448bae72b61846f80f5d)|[URL](https://archive.org/details/city-of-burnaby-2020-orthoimagery)|
-|City of Chilliwack|BC|2021|[URL](https://www.chilliwack.com/main/page.cfm?id=2331&odAction=viewItem&odID=177)| |
+|City of Chilliwack|BC|2021|[URL](https://www.chilliwack.com/main/page.cfm?id=2331&odAction=viewItem&odID=177)|[URL](https://archive.org/details/city-of-chilliwack-2021-orthoimagery) |
 |City of Kelowna|BC|2021|[URL](https://www.kelowna.ca/city-services/maps-open-data/orthophotos)|[URL](https://archive.org/details/city-of-kelowna-2021-orthoimagery)|
 |City of Nanaimo|BC|2022|[URL](https://www.nanaimo.ca/ortho)|[URL](https://archive.org/details/city-of-nanaimo-2022-orthoimagery)|
 |City of Surrey|BC|2021|[URL](https://data.surrey.ca/dataset/2021-orthophoto)| |
