@@ -13,7 +13,7 @@
 |City of West Kelowna|BC|2021|[URL](https://www.westkelownacity.ca/en/building-business-and-development/open-data.aspx)|[URL](https://archive.org/details/city-of-west-kelowna-2021-orthoimagery)|
 |District of North Vancouver|BC|2013|[URL](https://geoweb.dnv.org/data/)|[URL](https://archive.org/details/district-of-north-vancouver-2013-orthoimagery)|
 |District of West Vancouver|BC|2020|[URL](https://mapping.westvancouver.ca/OD/dbo_OPENDATA_FILES_list.php?page=list)|[URL](https://archive.org/details/district-of-west-vancouver-2020-orthoimagery)|
-|Regional District of Central Okanagan|BC|2021|[URL](https://gis-rdco.hub.arcgis.com/pages/open-data)| |
+|Regional District of Central Okanagan|BC|2021|[URL](https://gis-rdco.hub.arcgis.com/pages/open-data)|[URL](https://archive.org/details/regional-district-of-central-okanagan-2021-orthoimagery)|
 |Township of Langley|BC|2020|[URL](https://tol.maps.arcgis.com/apps/webappviewer/index.html?id=2676cc617ab34901ad31e036cc12d547)| |
 |City of Winnipeg|MB|2021|[URL](https://data.winnipeg.ca/City-Planning/Orthographic-Photography-Tiles/xwk4-6qbc)| |
 |City of Whitehorse|YK|2019|[URL](https://data.whitehorse.ca/)|[URL](https://archive.org/details/whitehorse-2019-orthoimagery)|
